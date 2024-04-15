@@ -1,0 +1,9 @@
+name: rfb
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - Flask=0.12.2
+  - scikit-learn
+  - beautifulsoup4
+  - pytorch
